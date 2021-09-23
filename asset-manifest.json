@@ -1,22 +1,22 @@
 {
   "files": {
-    "main.css": "/artgallery/static/css/main.6dea0f05.chunk.css",
-    "main.js": "/artgallery/static/js/main.2a8acc14.chunk.js",
-    "main.js.map": "/artgallery/static/js/main.2a8acc14.chunk.js.map",
-    "runtime-main.js": "/artgallery/static/js/runtime-main.1a600a6f.js",
-    "runtime-main.js.map": "/artgallery/static/js/runtime-main.1a600a6f.js.map",
-    "static/js/2.ed936802.chunk.js": "/artgallery/static/js/2.ed936802.chunk.js",
-    "static/js/2.ed936802.chunk.js.map": "/artgallery/static/js/2.ed936802.chunk.js.map",
-    "static/js/3.7fc45937.chunk.js": "/artgallery/static/js/3.7fc45937.chunk.js",
-    "static/js/3.7fc45937.chunk.js.map": "/artgallery/static/js/3.7fc45937.chunk.js.map",
-    "index.html": "/artgallery/index.html",
-    "static/css/main.6dea0f05.chunk.css.map": "/artgallery/static/css/main.6dea0f05.chunk.css.map",
-    "static/js/2.ed936802.chunk.js.LICENSE.txt": "/artgallery/static/js/2.ed936802.chunk.js.LICENSE.txt",
-    "static/media/logo.6ce24c58.svg": "/artgallery/static/media/logo.6ce24c58.svg"
+    "main.css": "/artgallery3d/static/css/main.6dea0f05.chunk.css",
+    "main.js": "/artgallery3d/static/js/main.2a8acc14.chunk.js",
+    "main.js.map": "/artgallery3d/static/js/main.2a8acc14.chunk.js.map",
+    "runtime-main.js": "/artgallery3d/static/js/runtime-main.a420b644.js",
+    "runtime-main.js.map": "/artgallery3d/static/js/runtime-main.a420b644.js.map",
+    "static/js/2.bd1e5860.chunk.js": "/artgallery3d/static/js/2.bd1e5860.chunk.js",
+    "static/js/2.bd1e5860.chunk.js.map": "/artgallery3d/static/js/2.bd1e5860.chunk.js.map",
+    "static/js/3.7fc45937.chunk.js": "/artgallery3d/static/js/3.7fc45937.chunk.js",
+    "static/js/3.7fc45937.chunk.js.map": "/artgallery3d/static/js/3.7fc45937.chunk.js.map",
+    "index.html": "/artgallery3d/index.html",
+    "static/css/main.6dea0f05.chunk.css.map": "/artgallery3d/static/css/main.6dea0f05.chunk.css.map",
+    "static/js/2.bd1e5860.chunk.js.LICENSE.txt": "/artgallery3d/static/js/2.bd1e5860.chunk.js.LICENSE.txt",
+    "static/media/logo.6ce24c58.svg": "/artgallery3d/static/media/logo.6ce24c58.svg"
   },
   "entrypoints": [
-    "static/js/runtime-main.1a600a6f.js",
-    "static/js/2.ed936802.chunk.js",
+    "static/js/runtime-main.a420b644.js",
+    "static/js/2.bd1e5860.chunk.js",
     "static/css/main.6dea0f05.chunk.css",
     "static/js/main.2a8acc14.chunk.js"
   ]
